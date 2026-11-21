@@ -131,6 +131,7 @@ public class AICharacter : MonoBehaviour {
         }
     }
 }
+```
 Check the following
 1. Waypoints placed in scene
 2. Neighbors set manually via Inspector
@@ -140,6 +141,7 @@ Check the following
 
 
 
+<img width="1907" height="1010" alt="Screenshot 2026-11-21 135355" src="https://github.com/user-attachments/assets/310027a1-4f07-4f27-8059-166e6dea697d" />
 
 
 
